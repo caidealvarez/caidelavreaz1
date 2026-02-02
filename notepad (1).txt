@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<hmtl lang="en"
+<head>
+<meta charset="UTH-8">
+<title>Caide Alvarez-HTML Lab</title>
+</head>
+<body>
+<h1>Caide Alvarez</h1>
+<p> As a native New Yorker from the Bronx,raised in an ecuadorian household, I aim to showcase the vibrancy, diversity, and rich culture of the city through my wesbite. I want every visitor to experience the energy, stories, and unique perspectives that make New York so beautifully dynamic.</p>
+<p><a href="secondpage.hmtl">Go to my second page</a></p>
+<p>Lab Instructor Email: <a href="mailto:writejem@gmail.com">writejem@gmail.com</a></p>
+</body>
+</hmtl>
