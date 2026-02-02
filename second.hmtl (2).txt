@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Caide Alvarez - Second Page</title>
+</head>
+
+<body>
+<h1>New York City</h1>
+
+<p>
+This photo represents how New York feels to me — bright, busy, and full of energy.
+The city is always moving, and there is always something new to see.
+</p>
+
+<img src="nyc.jpg" alt="New York City at night with lights" width="450">
+
+<p>
+<a href="index.html">Back to Home Page</a>
+</p>
+</body>
+</html>
