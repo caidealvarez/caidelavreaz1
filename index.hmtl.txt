@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<hmtl>
+<head> 
+<title>Caide Alvarez- MedPl 150</title>
+</head>
+<body>
+<h1>Caide Alvarez</h1>
+<p>TI want to show others my life through my eyes so they can better understand my way of thinking and how I approach things. Since I was little, I've always loved taking pictures and reading, and I'm hoping to combine these two interests on this website so others can see and experience that as well.
+</p>
+<a href="second.html">Visit my second page</a>
+</body>
+<html>
