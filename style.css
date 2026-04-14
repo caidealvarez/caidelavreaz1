@@ -1,39 +1,42 @@
-/* This is a comment. It is a way for developers to leave notes for themselves and others who are working on the code. It doesn't affect the code or show up on your site. Below I have left comments to describe what certain CSS selectors and properties do */
 
-/* Full page background */
+
 body {
-    background-color: #;
+    background-color: #fff0f6; /* soft pink */
     background-image: url('images/background.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    color: #1a1a1a; /* Default text color */
+    color: #4a4a4a;
     margin: 0;
-    padding: 0;
+    padding: 20px;
     font-family: 'Arial', sans-serif;
     font-size: 16px;
 }
 
-/* Link colors */
+
 a {
-    color: #0073e6; /* Link color */
+    color: #ff66a3; /* pink */
     text-decoration: none;
+    font-weight: bold;
 }
 
-/* Changes text color and adds underline on mouse hover */
 a:hover {
-    color: #005bb5;
+    color: #cc3385;
     text-decoration: underline;
 }
 
-/* Heading styles */
+
 h1 {
-    color: #111111; /* Heading color */
+    color: #ff4d88;
     font-size: 36px;
     margin: 24px 0 8px;
-}
-h2 {
-    color: #333333; /* Subheading color */
+}h2{
+    color: #ff85a2;
     font-size: 28px;
     margin: 16px 0 8px;
+}body {
+    max-width: 600px;
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.85);
+    border-radius: 15px;
 }
