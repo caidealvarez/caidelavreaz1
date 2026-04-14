@@ -1,21 +1,21 @@
-
+/* Cute pastel aesthetic 🌸 */
 
 body {
-    background-color: #fff0f6; /* soft pink */
-    background-image: url('images/background.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
+    background-color: #fff0f6;
     color: #4a4a4a;
     margin: 0;
     padding: 20px;
     font-family: 'Arial', sans-serif;
     font-size: 16px;
+    max-width: 600px;
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 15px;
 }
 
-
+/* Links */
 a {
-    color: #ff66a3; /* pink */
+    color: #ff66a3;
     text-decoration: none;
     font-weight: bold;
 }
@@ -25,18 +25,16 @@ a:hover {
     text-decoration: underline;
 }
 
-
+/* Headings */
 h1 {
     color: #ff4d88;
     font-size: 36px;
     margin: 24px 0 8px;
-}h2{
+}
+
+h2 {
     color: #ff85a2;
     font-size: 28px;
     margin: 16px 0 8px;
-}body {
-    max-width: 600px;
-    margin: auto;
-    background-color: rgba(255, 255, 255, 0.85);
-    border-radius: 15px;
 }
+
